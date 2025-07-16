@@ -1,6 +1,6 @@
 # webscrapping
 
-✅ Web Scraping Sample Project Description
+✅ **Web Scraping Sample Project Description**
 I recently completed a sample web scraping project for a client who needed to extract structured data from a public directory website that contained over 10,000 paginated entries, with 12 records per page. The target data included organization names, websites, and raw text metadata.
 
 🔧 Technologies Used
